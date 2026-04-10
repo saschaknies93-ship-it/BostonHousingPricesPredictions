@@ -1,5 +1,7 @@
 📊 Housing Price Prediction using Machine Learning
 
+Live Demo: https://bostonhousingpricespredictions-wj7h6mshmt4wdvn4xnhssr.streamlit.app/
+
 🚀 Project Overview
 This project demonstrates a complete end-to-end machine learning workflow for predicting housing prices.
 It covers data exploration, model development, evaluation, and optimization using multiple algorithms.
